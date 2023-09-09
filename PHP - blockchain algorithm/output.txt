@@ -1,0 +1,11 @@
+The output will be written here:
+
+Mining block 1...
+Block mined: 00df750847666662693eafbbfb6ec241a6d89bea0cb67396f62e57eac4d35bda
+Mining block 2...
+Block mined: 003eff6e1b3b703102376bef77d05dca22e713185975431f2450fb9c65965a12
+{}
+Is blockchain valid? Yes
+{}
+Is blockchain valid? Yes
+
